@@ -16,7 +16,13 @@ The challenge is to create a React SPA (using any sort of boilerplate, something
    - Number of Active Contracts (represented by activeContracts)
 - Changing the Account Executive from the dropdown should update the list of companies according to that Account Executive's company list
 
-Note: While we’re not expecting a beautifully rendered front end as this is really just a simple select box loaded w/ data from the API, and on select fill out a simple table or any other method below to display their accounts. Don’t worry about sorting or filtering the results with table controls or pagination or anything. This is more to see how you approach retrieving data from an API and managing the React lifecycle rather than designing a user experience.
+This exercise is to test the following:
+- How you retrieve data from an API
+- Your understanding of the React lifecycle
+- Your understanding of building a usable front-end user experience
+- Ability to take loose requirements and return a finished product
+
+Take as much liberty with the exercise as you would like such that the end result represents something your proud of.
 
 ## API Endpoints
 
